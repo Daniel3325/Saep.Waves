@@ -21,7 +21,7 @@ body {
 }
 
 h2 {
-    color: #1800f0;
+    color: #0061e0;
     margin-bottom: 20px;
     font-size: 2rem;
 }
@@ -49,7 +49,7 @@ h2 {
 button {
     width: 100%;
     padding: 10px;
-    background-color: #092291;
+    background-color: #0061e0;
     border: none;
     border-radius: 5px;
     color: white;
